@@ -1,6 +1,8 @@
 # XuanKhanh Nguyen
 
-I am a Senior Associate Data Scientist at Guild Education.
+Hi, I'm Khanh. I am a data enthusiast. 
+
+Check out my portfolio [here](https://xkhanhnguyen.github.io/)
 
 <!-- <br/> -->
 
